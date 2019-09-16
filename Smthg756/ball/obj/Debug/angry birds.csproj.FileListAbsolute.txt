@@ -1,0 +1,28 @@
+C:\Users\turgu\source\repos\Smthg756\angry birds\bin\Debug\angry birds.exe.config
+C:\Users\turgu\source\repos\Smthg756\angry birds\bin\Debug\angry birds.exe
+C:\Users\turgu\source\repos\Smthg756\angry birds\bin\Debug\angry birds.pdb
+C:\Users\turgu\source\repos\Smthg756\angry birds\obj\Debug\angry_birds.Form1.resources
+C:\Users\turgu\source\repos\Smthg756\angry birds\obj\Debug\angry_birds.Properties.Resources.resources
+C:\Users\turgu\source\repos\Smthg756\angry birds\obj\Debug\angry birds.csproj.GenerateResource.cache
+C:\Users\turgu\source\repos\Smthg756\angry birds\obj\Debug\angry birds.csproj.CoreCompileInputs.cache
+C:\Users\turgu\source\repos\Smthg756\angry birds\obj\Debug\angry birds.exe
+C:\Users\turgu\source\repos\Smthg756\angry birds\obj\Debug\angry birds.pdb
+C:\Users\turgu\source\repos\Smthg756\angry birds\obj\Debug\angry birds.csprojAssemblyReference.cache
+F:\Учеба и программирование\PP2\repos\Smthg756\angry birds\bin\Debug\angry birds.exe.config
+F:\Учеба и программирование\PP2\repos\Smthg756\angry birds\bin\Debug\angry birds.exe
+F:\Учеба и программирование\PP2\repos\Smthg756\angry birds\bin\Debug\angry birds.pdb
+F:\Учеба и программирование\PP2\repos\Smthg756\angry birds\bin\Debug\mscorlib.dll
+F:\Учеба и программирование\PP2\repos\Smthg756\angry birds\bin\Debug\ru\mscorlib.resources.dll
+F:\Учеба и программирование\PP2\repos\Smthg756\angry birds\bin\Debug\normidna.nlp
+F:\Учеба и программирование\PP2\repos\Smthg756\angry birds\bin\Debug\normnfc.nlp
+F:\Учеба и программирование\PP2\repos\Smthg756\angry birds\bin\Debug\normnfd.nlp
+F:\Учеба и программирование\PP2\repos\Smthg756\angry birds\bin\Debug\normnfkc.nlp
+F:\Учеба и программирование\PP2\repos\Smthg756\angry birds\bin\Debug\normnfkd.nlp
+F:\Учеба и программирование\PP2\repos\Smthg756\angry birds\obj\Debug\angry birds.csprojAssemblyReference.cache
+F:\Учеба и программирование\PP2\repos\Smthg756\angry birds\obj\Debug\angry_birds.Form1.resources
+F:\Учеба и программирование\PP2\repos\Smthg756\angry birds\obj\Debug\angry_birds.Properties.Resources.resources
+F:\Учеба и программирование\PP2\repos\Smthg756\angry birds\obj\Debug\angry birds.csproj.GenerateResource.cache
+F:\Учеба и программирование\PP2\repos\Smthg756\angry birds\obj\Debug\angry birds.csproj.CoreCompileInputs.cache
+F:\Учеба и программирование\PP2\repos\Smthg756\angry birds\obj\Debug\angry birds.csproj.CopyComplete
+F:\Учеба и программирование\PP2\repos\Smthg756\angry birds\obj\Debug\angry birds.exe
+F:\Учеба и программирование\PP2\repos\Smthg756\angry birds\obj\Debug\angry birds.pdb

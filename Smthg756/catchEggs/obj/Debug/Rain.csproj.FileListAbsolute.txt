@@ -1,0 +1,28 @@
+C:\Users\turgu\source\repos\Smthg756\Rain\bin\Debug\Rain.exe.config
+C:\Users\turgu\source\repos\Smthg756\Rain\bin\Debug\Rain.exe
+C:\Users\turgu\source\repos\Smthg756\Rain\bin\Debug\Rain.pdb
+C:\Users\turgu\source\repos\Smthg756\Rain\obj\Debug\Rain.csprojAssemblyReference.cache
+C:\Users\turgu\source\repos\Smthg756\Rain\obj\Debug\Rain.Form1.resources
+C:\Users\turgu\source\repos\Smthg756\Rain\obj\Debug\Rain.Properties.Resources.resources
+C:\Users\turgu\source\repos\Smthg756\Rain\obj\Debug\Rain.csproj.GenerateResource.cache
+C:\Users\turgu\source\repos\Smthg756\Rain\obj\Debug\Rain.csproj.CoreCompileInputs.cache
+C:\Users\turgu\source\repos\Smthg756\Rain\obj\Debug\Rain.exe
+C:\Users\turgu\source\repos\Smthg756\Rain\obj\Debug\Rain.pdb
+F:\Учеба и программирование\PP2\repos\Smthg756\Rain\bin\Debug\Rain.exe.config
+F:\Учеба и программирование\PP2\repos\Smthg756\Rain\bin\Debug\Rain.exe
+F:\Учеба и программирование\PP2\repos\Smthg756\Rain\bin\Debug\Rain.pdb
+F:\Учеба и программирование\PP2\repos\Smthg756\Rain\bin\Debug\mscorlib.dll
+F:\Учеба и программирование\PP2\repos\Smthg756\Rain\bin\Debug\ru\mscorlib.resources.dll
+F:\Учеба и программирование\PP2\repos\Smthg756\Rain\bin\Debug\normidna.nlp
+F:\Учеба и программирование\PP2\repos\Smthg756\Rain\bin\Debug\normnfc.nlp
+F:\Учеба и программирование\PP2\repos\Smthg756\Rain\bin\Debug\normnfd.nlp
+F:\Учеба и программирование\PP2\repos\Smthg756\Rain\bin\Debug\normnfkc.nlp
+F:\Учеба и программирование\PP2\repos\Smthg756\Rain\bin\Debug\normnfkd.nlp
+F:\Учеба и программирование\PP2\repos\Smthg756\Rain\obj\Debug\Rain.csprojAssemblyReference.cache
+F:\Учеба и программирование\PP2\repos\Smthg756\Rain\obj\Debug\Rain.Form1.resources
+F:\Учеба и программирование\PP2\repos\Smthg756\Rain\obj\Debug\Rain.Properties.Resources.resources
+F:\Учеба и программирование\PP2\repos\Smthg756\Rain\obj\Debug\Rain.csproj.GenerateResource.cache
+F:\Учеба и программирование\PP2\repos\Smthg756\Rain\obj\Debug\Rain.csproj.CoreCompileInputs.cache
+F:\Учеба и программирование\PP2\repos\Smthg756\Rain\obj\Debug\Rain.csproj.CopyComplete
+F:\Учеба и программирование\PP2\repos\Smthg756\Rain\obj\Debug\Rain.exe
+F:\Учеба и программирование\PP2\repos\Smthg756\Rain\obj\Debug\Rain.pdb
