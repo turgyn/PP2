@@ -1,0 +1,30 @@
+C:\Users\turgu\source\repos\Tank\Tank\bin\Debug\Tank.exe.config
+C:\Users\turgu\source\repos\Tank\Tank\bin\Debug\Tank.exe
+C:\Users\turgu\source\repos\Tank\Tank\bin\Debug\Tank.pdb
+C:\Users\turgu\source\repos\Tank\Tank\obj\Debug\Tank.csprojAssemblyReference.cache
+C:\Users\turgu\source\repos\Tank\Tank\obj\Debug\Tank.Form1.resources
+C:\Users\turgu\source\repos\Tank\Tank\obj\Debug\Tank.Properties.Resources.resources
+C:\Users\turgu\source\repos\Tank\Tank\obj\Debug\Tank.Resource1.resources
+C:\Users\turgu\source\repos\Tank\Tank\obj\Debug\Tank.csproj.GenerateResource.cache
+C:\Users\turgu\source\repos\Tank\Tank\obj\Debug\Tank.csproj.CoreCompileInputs.cache
+C:\Users\turgu\source\repos\Tank\Tank\obj\Debug\Tank.exe
+C:\Users\turgu\source\repos\Tank\Tank\obj\Debug\Tank.pdb
+F:\Учеба и программирование\PP2\repos\Tank\Tank\bin\Debug\Tank.exe.config
+F:\Учеба и программирование\PP2\repos\Tank\Tank\bin\Debug\Tank.exe
+F:\Учеба и программирование\PP2\repos\Tank\Tank\bin\Debug\Tank.pdb
+F:\Учеба и программирование\PP2\repos\Tank\Tank\bin\Debug\mscorlib.dll
+F:\Учеба и программирование\PP2\repos\Tank\Tank\bin\Debug\ru\mscorlib.resources.dll
+F:\Учеба и программирование\PP2\repos\Tank\Tank\bin\Debug\normidna.nlp
+F:\Учеба и программирование\PP2\repos\Tank\Tank\bin\Debug\normnfc.nlp
+F:\Учеба и программирование\PP2\repos\Tank\Tank\bin\Debug\normnfd.nlp
+F:\Учеба и программирование\PP2\repos\Tank\Tank\bin\Debug\normnfkc.nlp
+F:\Учеба и программирование\PP2\repos\Tank\Tank\bin\Debug\normnfkd.nlp
+F:\Учеба и программирование\PP2\repos\Tank\Tank\obj\Debug\Tank.csprojAssemblyReference.cache
+F:\Учеба и программирование\PP2\repos\Tank\Tank\obj\Debug\Tank.Form1.resources
+F:\Учеба и программирование\PP2\repos\Tank\Tank\obj\Debug\Tank.Properties.Resources.resources
+F:\Учеба и программирование\PP2\repos\Tank\Tank\obj\Debug\Tank.Resource1.resources
+F:\Учеба и программирование\PP2\repos\Tank\Tank\obj\Debug\Tank.csproj.GenerateResource.cache
+F:\Учеба и программирование\PP2\repos\Tank\Tank\obj\Debug\Tank.csproj.CoreCompileInputs.cache
+F:\Учеба и программирование\PP2\repos\Tank\Tank\obj\Debug\Tank.csproj.CopyComplete
+F:\Учеба и программирование\PP2\repos\Tank\Tank\obj\Debug\Tank.exe
+F:\Учеба и программирование\PP2\repos\Tank\Tank\obj\Debug\Tank.pdb
